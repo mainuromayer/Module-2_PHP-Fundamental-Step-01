@@ -5,3 +5,4 @@
     $myName = "Omayer";     # camal case ✅ this is suitable
     $MyName = "Omayer";     # title case  ✅
 
+?>
