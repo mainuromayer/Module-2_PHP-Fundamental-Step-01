@@ -4,7 +4,7 @@ $name = "Neptune";
 var_dump($name);
 
 // Integer -
-$age = 12;
+$age = 13;
 var_dump($age);
 
 // --------------------------------------
