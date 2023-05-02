@@ -4,7 +4,7 @@
 
 
 // Addition -
-    $number = 12;
+    $number = 14;
     // $number = $number + 13;
     $number += 13;
     echo "Addition ". $number;
