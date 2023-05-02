@@ -1,8 +1,8 @@
 <?php
 // variable naming style ------
 
-    $my_name = "Omayer";    # underscore ✅ 
-    $myName = "Omayer";     # camal case ✅ this is suitable
-    $MyName = "Omayer";     # title case  ✅
+    $my_name = "Mainur";    # underscore ✅ 
+    $myName = "Mainur";     # camal case ✅ this is suitable
+    $MyName = "Mainur";     # title case  ✅
 
 ?>
