@@ -2,7 +2,7 @@
 // variable ------
 
     $name = "Bangladesh";
-    $age = 13;
+    $age = 14;
     $question = "How are you?";
 
     $word = "age";
