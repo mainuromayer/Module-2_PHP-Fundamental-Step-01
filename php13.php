@@ -27,7 +27,7 @@ echo "\n";
 
 
 if($condition1 && $condition2 && $condition3){
-    echo "Hello";
+    echo "Hello World!";
 }elseif($condition1 && $condition2){
     echo "no 1";
 }elseif($condition1){
