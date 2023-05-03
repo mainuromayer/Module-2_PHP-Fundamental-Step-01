@@ -13,10 +13,9 @@ $e = false or true; // ($e = false) or true     // $e = false
 var_dump($f, $e);
 
 /*
-output :
-bool(true)
-bool(false)
-
+  output :
+    bool(true)
+    bool(false)
  */
 
 // ---------------------
@@ -31,8 +30,7 @@ $e = true and false; // ($e = true) and false     // $e = true
 var_dump($f, $e);
 
 /*
-output :
-bool(false)
-bool(true)
-
+  output :
+    bool(false)
+    bool(true)
  */
