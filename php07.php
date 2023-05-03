@@ -7,13 +7,13 @@ $number = 12 + 13;  # here 12, 13 is called operand. and symbol called operator
 /* ========================================================= */
 
 // How can 1 value store with multiple variable -
-$x = $y = 2;
-echo "x value :". $x ." and y value :". $y;
+$x = $y = 3;
+echo "x value:". $x ." and y value:" . $y;
 echo "\n";
 
 /* output -
-    $x = 2
-    $y = 2
+    $x = 3
+    $y = 3
 */
 // ---------------
 
