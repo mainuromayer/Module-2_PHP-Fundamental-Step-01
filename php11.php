@@ -110,6 +110,3 @@ if ("tuna" == $food || "salmon" == $food) {
     echo "We don't know if {$food} contains vitamin D";
 }
 echo "\n";
-
-
-
