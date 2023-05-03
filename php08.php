@@ -28,7 +28,7 @@ echo "\n";
 
 // Decimal to Binary convert -
 
-printf("The binary equivalent of %d is %b",1212, 1212);
+printf("The Binary equivalent of %d is %b",1212, 1212);
 echo "\n";
 
 // ------------------------------------------------------------
