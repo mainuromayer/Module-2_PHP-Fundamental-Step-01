@@ -2,7 +2,7 @@
 // Variable Swaping -
     $fname = "Isaac";
     $lname = "Newton";
-    $mname = "Nothing";
+    $mname = "Something";
 
     printf("His name is %s %s",$fname,$lname);
     echo "\n";
