@@ -46,8 +46,8 @@ switch($color){
 echo "\n";
 
 
-// -------------------
 
+// -------------------
 if ("red" == $color || "green" == $color){
     echo ucwords($color) . " is my favourite color";
 }elseif("blue" == $color){
