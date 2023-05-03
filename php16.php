@@ -28,8 +28,9 @@ switch($r){
 }
 
 
-// -------------------------------------------
 
+
+// -------------------------------------------
 switch(true){
     case(0 == $r && $n > 0):
         echo "$n is a positive even number";
@@ -44,5 +45,3 @@ switch(true){
         echo "$n is a negative odd number";
         break;
 }
-
-
